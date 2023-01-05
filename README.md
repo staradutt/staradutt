@@ -13,5 +13,5 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: He/Him
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staradutt&layout=compact" alt="taradutt pattnaik" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=staradutt&show_icons=true" alt="taradutt pattnaik stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=staradutt&show_icons=true" alt="taradutt pattnaik stats" /></p>
 
